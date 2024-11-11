@@ -1,4 +1,4 @@
-Kode Python pada gambar tersebut adalah program sederhana untuk input data mahasiswa dan menghitung nilai akhir berdasarkan bobot nilai tugas, UTS, dan UAS. Berikut penjelasan kode tersebut:
+Berikut penjelasan kode yang saya input
 
 ### Penjelasan Kode:
 1. **Inisialisasi List Mahasiswa**:
